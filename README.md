@@ -16,6 +16,11 @@ A responsive YouTube interface clone with functional navigation elements and vid
 - CSS3 (Flexbox, Grid)
 - Google Material Icons
 
+## Notes
+- This project is for tutorial purposes only.
+- I did not upload the profile-pic because it's my personal photo.
+- The thumbnails and video titles are randomly chosen.
+
 ## Installation
 1. Clone the repository:
 ```bash
